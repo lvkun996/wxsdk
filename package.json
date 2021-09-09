@@ -1,0 +1,23 @@
+{
+  "name": "lk-wxsdk",
+  "version": "1.0.6",
+  "description": "微信网页常用sdk",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "微信",
+    "sdk",
+    "javascript"
+  ],
+  "author": "lvkun",
+  "license": "ISC",
+  "dependencies": {
+    "weixin-js-sdk": "^1.4.0-test"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
+}
